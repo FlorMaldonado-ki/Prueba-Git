@@ -1,2 +1,4 @@
 Obtener los datos del usuario...
 PROCESO PARA LOS datos
+
+crar un avatar para el usuario
